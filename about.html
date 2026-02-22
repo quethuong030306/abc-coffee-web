@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ABC Coffee - Giới Thiệu</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-i18n-title="about.title">
+    <nav class="navbar navbar-expand-lg navbar-custom navbar-light fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">ABC Coffee</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navMain"
+          aria-controls="navMain"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navMain">
+          <div class="navbar-nav ms-auto align-items-lg-center">
+            <a class="nav-link" href="index.html" data-i18n="nav.home"
+              >Trang chủ</a
+            >
+            <a
+              class="nav-link active"
+              href="about.html"
+              data-i18n="nav.about"
+              >Giới thiệu</a
+            >
+            <a class="nav-link" href="gallery.html" data-i18n="nav.gallery"
+              >Thư viện</a
+            >
+            <a class="nav-link" href="contact.html" data-i18n="nav.contact"
+              >Liên hệ</a
+            >
+            <button
+              class="btn btn-sm btn-outline-dark ms-lg-3 mt-2 mt-lg-0"
+              type="button"
+              data-lang-toggle
+            >
+              EN
+            </button>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <header class="hero">
+      <div class="container">
+        <div class="row g-4 align-items-center">
+          <div class="col-lg-6 reveal">
+            <span class="pill" data-i18n="about.pill">Về thương hiệu</span>
+            <h1 class="hero-title mt-3">
+              <span data-i18n="about.hero.title"
+                >Thương hiệu cà phê ABC với trải nghiệm khách hàng làm trung
+                tâm.</span
+              >
+            </h1>
+            <p class="hero-subtitle mt-3">
+              <span data-i18n="about.hero.body"
+                >ABC Coffee được xây dựng để mang đến trải nghiệm cà phê đồng
+                nhất, từ chất lượng hạt rang, công thức pha chế đến phong cách
+                phục vụ và không gian tại mỗi cửa hàng.</span
+              >
+            </p>
+          </div>
+          <div class="col-lg-6 reveal">
+            <img
+              src="https://images.unsplash.com/photo-1459755486867-b55449bb39ff?auto=format&fit=crop&w=1200&q=80"
+              alt="Đội ngũ thương hiệu"
+              data-i18n-alt="about.pill"
+              class="rounded-4 shadow"
+            />
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="section">
+      <div class="container">
+        <div class="row g-4">
+          <div class="col-lg-4 reveal">
+            <div class="feature-card">
+              <h5 data-i18n="about.vision.title">Tầm nhìn</h5>
+              <p class="section-lead">
+                <span data-i18n="about.vision.body"
+                  >Trở thành chuỗi cà phê được yêu thích nhờ chất lượng ổn định
+                  và phong cách thân thiện.</span
+                >
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 reveal">
+            <div class="feature-card">
+              <h5 data-i18n="about.mission.title">Sứ mệnh</h5>
+              <p class="section-lead">
+                <span data-i18n="about.mission.body"
+                  >Mang đến cho khách hàng ly cà phê chuẩn vị và không gian nghỉ
+                  ngơi dễ thương.</span
+                >
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4 reveal">
+            <div class="feature-card">
+              <h5 data-i18n="about.values.title">Giá trị cốt lõi</h5>
+              <p class="section-lead">
+                <span data-i18n="about.values.body"
+                  >Chân thật, tận tâm và liên tục nâng cao chất lượng.</span
+                >
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="row g-4 align-items-center">
+          <div class="col-lg-6 reveal">
+            <h2 class="section-title" data-i18n="about.space.title">
+              Không gian và phong cách phục vụ
+            </h2>
+            <p class="section-lead mt-3">
+              <span data-i18n="about.space.body"
+                >ABC Coffee chú trọng không gian ấm, kết hợp gỗ và ánh sáng vàng
+                nhẹ. Thực đơn được thiết kế để phù hợp cả tại quán và mang
+                đi.</span
+              >
+            </p>
+            <div class="row g-3 mt-4">
+              <div class="col-sm-6">
+                <div class="feature-card">
+                  <h6 data-i18n="about.space.item1">Rang xay đặc trưng</h6>
+                  <p class="section-lead" data-i18n="about.space.item1desc">
+                    Hạt cà phê rang vừa, hương cacao và hạt dẻ.
+                  </p>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="feature-card">
+                  <h6 data-i18n="about.space.item2">Thực đơn theo mùa</h6>
+                  <p class="section-lead" data-i18n="about.space.item2desc">
+                    Đồ uống theo mùa, vị mới lạ và độc đáo.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-6 reveal">
+            <div class="stats">
+              <h4 class="section-title" data-i18n="about.quality.title">
+                Cam kết chất lượng
+              </h4>
+              <ul class="mt-3">
+                <li data-i18n="about.quality.item1">
+                  Hạt rang mới mỗi tuần, luôn giữ hương vị ổn định.
+                </li>
+                <li data-i18n="about.quality.item2">
+                  Quy trình pha chế được chuẩn hóa cho mỗi ca làm.
+                </li>
+                <li data-i18n="about.quality.item3">
+                  Nguyên liệu sạch, minh bạch nguồn gốc.
+                </li>
+                <li data-i18n="about.quality.item4">
+                  Phản hồi khách hàng được ghi nhận hằng ngày.
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="row g-4 align-items-center">
+          <div class="col-lg-6 reveal">
+            <img
+              src="https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=1200&q=80"
+              alt="Hành trình phát triển"
+              data-i18n-alt="about.journey.pill"
+              class="rounded-4 shadow"
+            />
+          </div>
+          <div class="col-lg-6 reveal">
+            <span class="pill" data-i18n="about.journey.pill"
+              >Hành trình phát triển</span
+            >
+            <h2 class="section-title mt-3" data-i18n="about.journey.title">
+              Từ cửa hàng đầu tiên đến chuỗi ABC
+            </h2>
+            <p class="section-lead mt-3">
+              <span data-i18n="about.journey.body"
+                >Khởi nguồn từ cảm hứng cà phê Việt, ABC Coffee ra mắt năm 2019
+                với sứ mệnh lan tỏa hương vị cà phê truyền thống. Với hơn 24+
+                cửa hàng, thương hiệu tự hào xây dựng cộng đồng yêu cà phê lớn
+                mạnh và tiếp tục gìn giữ tinh hoa cà phê Việt.</span
+              >
+            </p>
+            <div class="row g-2 mt-4">
+              <div class="col-6" data-i18n="about.journey.item1">
+                2019: Mở quán đầu tiên
+              </div>
+              <div class="col-6" data-i18n="about.journey.item2">
+                2021: 8 cửa hàng tại TP.HCM
+              </div>
+              <div class="col-6" data-i18n="about.journey.item3">
+                2023: 24 cửa hàng trên toàn quốc
+              </div>
+              <div class="col-6" data-i18n="about.journey.item4">
+                2024: Ra mắt dòng sản phẩm đóng gói
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row g-3">
+          <div class="col-md-6">
+            <h5>ABC Coffee</h5>
+            <p class="section-lead" data-i18n="footer.tagline">
+              Thương hiệu cà phê do tôi sáng lập, tự hào với chất lượng và cảm
+              hứng bản địa.
+            </p>
+          </div>
+          <div class="col-md-6 text-md-end">
+            <p class="section-lead mb-1">
+              <span data-i18n="footer.email">Email</span>: hello@abccoffee.vn
+            </p>
+            <p class="section-lead mb-1">
+              <span data-i18n="footer.hotline">Hotline</span>: 0900 123 456
+            </p>
+            <p class="section-lead mb-0">
+              <span data-i18n="footer.address">Địa chỉ</span>: 21 Nguyễn Huệ,
+              TP.HCM
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

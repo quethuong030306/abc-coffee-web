@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ABC Coffee - Liên Hệ</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-i18n-title="contact.title">
+    <nav class="navbar navbar-expand-lg navbar-custom navbar-light fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">ABC Coffee</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navMain"
+          aria-controls="navMain"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navMain">
+          <div class="navbar-nav ms-auto align-items-lg-center">
+            <a class="nav-link" href="index.html" data-i18n="nav.home"
+              >Trang chủ</a
+            >
+            <a class="nav-link" href="about.html" data-i18n="nav.about"
+              >Giới thiệu</a
+            >
+            <a class="nav-link" href="gallery.html" data-i18n="nav.gallery"
+              >Thư viện</a
+            >
+            <a
+              class="nav-link active"
+              href="contact.html"
+              data-i18n="nav.contact"
+              >Liên hệ</a
+            >
+            <button
+              class="btn btn-sm btn-outline-dark ms-lg-3 mt-2 mt-lg-0"
+              type="button"
+              data-lang-toggle
+            >
+              EN
+            </button>
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <header class="hero">
+      <div class="container">
+        <div class="row g-4 align-items-center">
+          <div class="col-lg-6 reveal">
+            <span class="pill" data-i18n="contact.pill">Liên hệ ABC Coffee</span>
+            <h1 class="hero-title mt-3">
+              <span data-i18n="contact.hero.title"
+                >Kết nối với tôi để nhận thông tin sản phẩm và hợp tác.</span
+              >
+            </h1>
+            <p class="hero-subtitle mt-3">
+              <span data-i18n="contact.hero.body"
+                >Gửi thông tin, ABC Coffee sẽ phản hồi trong 24 giờ.</span
+              >
+            </p>
+          </div>
+          <div class="col-lg-6 reveal">
+            <img
+              src="https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=1200&q=80"
+              alt="Liên hệ ABC Coffee"
+              data-i18n-alt="contact.pill"
+              class="rounded-4 shadow"
+            />
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="section">
+      <div class="container">
+        <div class="row g-4">
+          <div class="col-lg-5 reveal">
+            <div class="contact-panel">
+              <h3 class="section-title" data-i18n="contact.info.title">
+                Thông tin liên hệ
+              </h3>
+              <p class="section-lead mt-3" data-i18n="contact.info.body">
+                Hotline dành cho khách hàng và đối tác.
+              </p>
+              <div class="mt-4">
+                <p class="mb-1">
+                  <strong data-i18n="footer.hotline">Hotline</strong>: 0900 123
+                  456
+                </p>
+                <p class="mb-1">
+                  <strong data-i18n="footer.email">Email</strong>:
+                  hello@abccoffee.vn
+                </p>
+                <p class="mb-1">
+                  <strong data-i18n="footer.address">Địa chỉ</strong>: 21 Nguyễn
+                  Huệ, TP.HCM
+                </p>
+                <p class="mb-0">
+                  <strong data-i18n="contact.info.hours">Giờ làm việc</strong>:
+                  08:30 - 18:00
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-7 reveal">
+            <div class="contact-panel">
+              <h3 class="section-title" data-i18n="contact.form.title">
+                Gửi yêu cầu tư vấn
+              </h3>
+              <form class="row g-3 mt-2">
+                <div class="col-md-6">
+                  <input
+                    type="text"
+                    class="form-control"
+                    placeholder="Họ và tên"
+                    data-i18n-placeholder="contact.form.name"
+                    required
+                  />
+                </div>
+                <div class="col-md-6">
+                  <input
+                    type="tel"
+                    class="form-control"
+                    placeholder="Số điện thoại"
+                    data-i18n-placeholder="contact.form.phone"
+                    required
+                  />
+                </div>
+                <div class="col-md-6">
+                  <input
+                    type="email"
+                    class="form-control"
+                    placeholder="Email"
+                    data-i18n-placeholder="contact.form.email"
+                    required
+                  />
+                </div>
+                <div class="col-md-6">
+                  <select class="form-control" required>
+                    <option value="" data-i18n="contact.form.topic">
+                      Chủ đề quan tâm
+                    </option>
+                    <option data-i18n="contact.form.topic1">
+                      Thực đơn và sản phẩm
+                    </option>
+                    <option data-i18n="contact.form.topic2">
+                      Hợp tác kinh doanh
+                    </option>
+                    <option data-i18n="contact.form.topic3">
+                      Sự kiện và đặt tiệc
+                    </option>
+                  </select>
+                </div>
+                <div class="col-12">
+                  <textarea
+                    class="form-control"
+                    rows="4"
+                    placeholder="Mô tả mặt bằng hoặc câu hỏi của bạn"
+                    data-i18n-placeholder="contact.form.message"
+                  ></textarea>
+                </div>
+                <div class="col-12">
+                  <button
+                    class="cta-btn"
+                    type="submit"
+                    data-i18n="contact.form.submit"
+                  >
+                    Gửi thông tin
+                  </button>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="row g-4 align-items-center">
+          <div class="col-lg-6 reveal">
+            <span class="pill" data-i18n="contact.map.pill">Bản đồ khu vực</span>
+            <h2 class="section-title mt-3" data-i18n="contact.map.title">
+              Ghé thăm ABC Coffee tại TP.HCM
+            </h2>
+            <p class="section-lead mt-3" data-i18n="contact.map.body">
+              Mời bạn ghé tham quan và thưởng hương vị cà phê ABC.
+            </p>
+          </div>
+          <div class="col-lg-6 reveal">
+            <div class="ratio ratio-4x3 rounded-4 overflow-hidden shadow">
+              <iframe
+                src="https://maps.google.com/maps?q=Nguyen%20Hue%20Ho%20Chi%20Minh&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                title="Bản đồ văn phòng"
+                data-i18n-title="contact.map.title"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="container">
+        <div class="row g-3">
+          <div class="col-md-6">
+            <h5>ABC Coffee</h5>
+            <p class="section-lead" data-i18n="contact.footer.tagline">
+              Thương hiệu cà phê do tôi sáng lập, lan tỏa hương vị Việt.
+            </p>
+          </div>
+          <div class="col-md-6 text-md-end">
+            <p class="section-lead mb-1">
+              <span data-i18n="footer.email">Email</span>: hello@abccoffee.vn
+            </p>
+            <p class="section-lead mb-1">
+              <span data-i18n="footer.hotline">Hotline</span>: 0900 123 456
+            </p>
+            <p class="section-lead mb-0">
+              <span data-i18n="footer.address">Địa chỉ</span>: 21 Nguyễn Huệ,
+              TP.HCM
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>
