@@ -18,12 +18,12 @@ const translations = {
     "nav.about": "Giới thiệu",
     "nav.gallery": "Thư viện",
     "nav.contact": "Liên hệ",
-    "index.title": "ABC Coffee - Trang Chủ",
-    "index.hero.pill": "ABC Coffee",
+    "index.title": "Yummy Coffee - Trang Chủ",
+    "index.hero.pill": "Yummy Coffee",
     "index.hero.title":
       "Cà phê rang xay tại xưởng, phục vụ trong không gian ấm áp.",
     "index.hero.subtitle":
-      "ABC Coffee theo đuổi triết lý cà phê nguyên bản: chọn hạt kỹ, rang chuẩn vị và phục vụ bằng sự tận tâm trong từng ly.",
+      "Yummy Coffee theo đuổi triết lý cà phê nguyên bản: chọn hạt kỹ, rang chuẩn vị và phục vụ bằng sự tận tâm trong từng ly.",
     "index.hero.ctaPrimary": "Liên hệ đặt hàng",
     "index.hero.ctaSecondary": "Câu chuyện thương hiệu",
     "index.hero.stat1": "Năm bền vững",
@@ -44,7 +44,7 @@ const translations = {
     "index.story.pill": "Câu chuyện thương hiệu",
     "index.story.title": "Từ đam mê cà phê đến chuỗi cửa hàng ABC",
     "index.story.body":
-      "ABC Coffee bắt đầu từ một quán nhỏ với mong muốn mang đến ly cà phê chuẩn vị Việt. Tôi trực tiếp lựa chọn hạt, xây công thức và chăm chút từng chi tiết để tạo nên trải nghiệm đồng nhất.",
+      "Yummy Coffee bắt đầu từ một quán nhỏ với mong muốn mang đến ly cà phê chuẩn vị Việt. Tôi trực tiếp lựa chọn hạt, xây công thức và chăm chút từng chi tiết để tạo nên trải nghiệm đồng nhất.",
     "index.story.cta": "Tìm hiểu thêm",
     "index.store.title": "Hệ thống cửa hàng",
     "index.store.lead": "Không gian ấm áp, thuận tiện làm việc và gặp gỡ.",
@@ -55,12 +55,12 @@ const translations = {
     "index.news.item1.title": "Bộ sưu tập mùa hè: Cold Brew & trái cây",
     "index.news.item1.body":
       "Hương vị tươi mát, giảm 15% trong tuần khai trương.",
-    "index.news.item2.title": "Workshop pha chế cuối tuần tại ABC Coffee",
+    "index.news.item2.title": "Workshop pha chế cuối tuần tại Yummy Coffee",
     "index.news.item2.body":
       "Học pha chế cơ bản và thưởng thức cà phê đặc sản.",
     "index.news.item3.title": "Ưu đãi thành viên: tặng 1 điểm cho mỗi ly",
     "index.news.item3.body": "Tích điểm đổi quà và ưu đãi sinh nhật dành riêng.",
-    "index.contact.title": "Kết nối với ABC Coffee ngay hôm nay",
+    "index.contact.title": "Kết nối với Yummy Coffee ngay hôm nay",
     "index.contact.body": "Đặt bàn, đặt đồ uống sự kiện hoặc nhận tư vấn hợp tác.",
     "index.contact.cta": "Liên hệ ngay",
     "footer.tagline":
@@ -68,12 +68,12 @@ const translations = {
     "footer.email": "Email",
     "footer.hotline": "Hotline",
     "footer.address": "Địa chỉ",
-    "about.title": "ABC Coffee - Giới Thiệu",
+    "about.title": "Yummy Coffee - Giới Thiệu",
     "about.pill": "Về thương hiệu",
     "about.hero.title":
       "Thương hiệu cà phê ABC với trải nghiệm khách hàng làm trung tâm.",
     "about.hero.body":
-      "ABC Coffee được xây dựng để mang đến trải nghiệm cà phê đồng nhất, từ chất lượng hạt rang, công thức pha chế đến phong cách phục vụ và không gian tại mỗi cửa hàng.",
+      "Yummy Coffee được xây dựng để mang đến trải nghiệm cà phê đồng nhất, từ chất lượng hạt rang, công thức pha chế đến phong cách phục vụ và không gian tại mỗi cửa hàng.",
     "about.vision.title": "Tầm nhìn",
     "about.vision.body":
       "Trở thành chuỗi cà phê được yêu thích nhờ chất lượng ổn định và phong cách thân thiện.",
@@ -84,7 +84,7 @@ const translations = {
     "about.values.body": "Chân thật, tận tâm và liên tục nâng cao chất lượng.",
     "about.space.title": "Không gian và phong cách phục vụ",
     "about.space.body":
-      "ABC Coffee chú trọng không gian ấm, kết hợp gỗ và ánh sáng vàng nhẹ. Thực đơn được thiết kế để phù hợp cả tại quán và mang đi.",
+      "Yummy Coffee chú trọng không gian ấm, kết hợp gỗ và ánh sáng vàng nhẹ. Thực đơn được thiết kế để phù hợp cả tại quán và mang đi.",
     "about.space.item1": "Rang xay đặc trưng",
     "about.space.item1desc": "Hạt cà phê rang vừa, hương cacao và hạt dẻ.",
     "about.space.item2": "Thực đơn theo mùa",
@@ -97,17 +97,17 @@ const translations = {
     "about.journey.pill": "Hành trình phát triển",
     "about.journey.title": "Từ cửa hàng đầu tiên đến chuỗi ABC",
     "about.journey.body":
-      "Khởi nguồn từ cảm hứng cà phê Việt, ABC Coffee ra mắt năm 2019 với sứ mệnh lan tỏa hương vị cà phê truyền thống. Với hơn 24+ cửa hàng, thương hiệu tự hào xây dựng cộng đồng yêu cà phê lớn mạnh và tiếp tục gìn giữ tinh hoa cà phê Việt.",
+      "Khởi nguồn từ cảm hứng cà phê Việt, Yummy Coffee ra mắt năm 2019 với sứ mệnh lan tỏa hương vị cà phê truyền thống. Với hơn 24+ cửa hàng, thương hiệu tự hào xây dựng cộng đồng yêu cà phê lớn mạnh và tiếp tục gìn giữ tinh hoa cà phê Việt.",
     "about.journey.item1": "2019: Mở quán đầu tiên",
     "about.journey.item2": "2021: 8 cửa hàng tại TP.HCM",
     "about.journey.item3": "2023: 24 cửa hàng trên toàn quốc",
     "about.journey.item4": "2024: Ra mắt dòng sản phẩm đóng gói",
-    "gallery.title": "ABC Coffee - Thư Viện",
+    "gallery.title": "Yummy Coffee - Thư Viện",
     "gallery.pill": "Thư viện hình ảnh & video",
     "gallery.hero.title":
       "Không gian quán cà phê và những khoảnh khắc đời thường.",
     "gallery.hero.body":
-      "Khám phá concept ấm áp, góc check-in và quy trình pha chế chuẩn của ABC Coffee.",
+      "Khám phá concept ấm áp, góc check-in và quy trình pha chế chuẩn của Yummy Coffee.",
     "gallery.collection.title": "Bộ sưu tập hình ảnh",
     "gallery.collection.body":
       "Từ hạt cà phê rang mới đến không gian phục vụ chăm chút.",
@@ -127,10 +127,10 @@ const translations = {
     "gallery.video.title": "Hành trình rang xay và pha chế",
     "gallery.video.body":
       "Theo dõi video giới thiệu cách chúng tôi lựa chọn hạt và pha chế để tạo nên ly cà phê ABC.",
-    "contact.title": "ABC Coffee - Liên Hệ",
-    "contact.pill": "Liên hệ ABC Coffee",
+    "contact.title": "Yummy Coffee - Liên Hệ",
+    "contact.pill": "Liên hệ Yummy Coffee",
     "contact.hero.title": "Kết nối với tôi để nhận thông tin sản phẩm và hợp tác.",
-    "contact.hero.body": "Gửi thông tin, ABC Coffee sẽ phản hồi trong 24 giờ.",
+    "contact.hero.body": "Gửi thông tin, Yummy Coffee sẽ phản hồi trong 24 giờ.",
     "contact.info.title": "Thông tin liên hệ",
     "contact.info.body": "Hotline dành cho khách hàng và đối tác.",
     "contact.info.hours": "Giờ làm việc",
@@ -145,7 +145,7 @@ const translations = {
     "contact.form.message": "Mô tả mặt bằng hoặc câu hỏi của bạn",
     "contact.form.submit": "Gửi thông tin",
     "contact.map.pill": "Bản đồ khu vực",
-    "contact.map.title": "Ghé thăm ABC Coffee tại TP.HCM",
+    "contact.map.title": "Ghé thăm Yummy Coffee tại TP.HCM",
     "contact.map.body": "Mời bạn ghé tham quan và thưởng hương vị cà phê ABC.",
     "contact.footer.tagline":
       "Thương hiệu cà phê do tôi sáng lập, lan tỏa hương vị Việt.",
@@ -155,12 +155,12 @@ const translations = {
     "nav.about": "About",
     "nav.gallery": "Gallery",
     "nav.contact": "Contact",
-    "index.title": "ABC Coffee - Home",
-    "index.hero.pill": "ABC Coffee",
+    "index.title": "Yummy Coffee - Home",
+    "index.hero.pill": "Yummy Coffee",
     "index.hero.title":
       "Roasted in-house coffee served in a warm, welcoming space.",
     "index.hero.subtitle":
-      "ABC Coffee follows a pure coffee philosophy: careful bean selection, precise roasting, and heartfelt service in every cup.",
+      "Yummy Coffee follows a pure coffee philosophy: careful bean selection, precise roasting, and heartfelt service in every cup.",
     "index.hero.ctaPrimary": "Order & Contact",
     "index.hero.ctaSecondary": "Brand story",
     "index.hero.stat1": "Years of growth",
@@ -180,7 +180,7 @@ const translations = {
     "index.story.pill": "Brand story",
     "index.story.title": "From coffee passion to the ABC chain",
     "index.story.body":
-      "ABC Coffee started as a small cafe with a dream of delivering authentic Vietnamese coffee. I select the beans, build recipes, and refine every detail for a consistent experience.",
+      "Yummy Coffee started as a small cafe with a dream of delivering authentic Vietnamese coffee. I select the beans, build recipes, and refine every detail for a consistent experience.",
     "index.story.cta": "Learn more",
     "index.store.title": "Store locations",
     "index.store.lead": "Warm spaces for work, meetups, and relaxation.",
@@ -190,11 +190,11 @@ const translations = {
     "index.news.badge": "Latest",
     "index.news.item1.title": "Summer collection: Cold Brew & fruits",
     "index.news.item1.body": "Refreshing flavors with 15% launch week discount.",
-    "index.news.item2.title": "Weekend brewing workshop at ABC Coffee",
+    "index.news.item2.title": "Weekend brewing workshop at Yummy Coffee",
     "index.news.item2.body": "Learn the basics and taste specialty coffee.",
     "index.news.item3.title": "Member perks: 1 point for every cup",
     "index.news.item3.body": "Redeem gifts and birthday offers just for you.",
-    "index.contact.title": "Connect with ABC Coffee today",
+    "index.contact.title": "Connect with Yummy Coffee today",
     "index.contact.body": "Book a table, order for events, or discuss partnerships.",
     "index.contact.cta": "Contact now",
     "footer.tagline":
@@ -202,12 +202,12 @@ const translations = {
     "footer.email": "Email",
     "footer.hotline": "Hotline",
     "footer.address": "Address",
-    "about.title": "ABC Coffee - About",
+    "about.title": "Yummy Coffee - About",
     "about.pill": "About the brand",
     "about.hero.title":
-      "ABC Coffee centers every experience around the customer.",
+      "Yummy Coffee centers every experience around the customer.",
     "about.hero.body":
-      "ABC Coffee is built to deliver a consistent coffee experience, from bean quality and brewing recipes to service style and space at every store.",
+      "Yummy Coffee is built to deliver a consistent coffee experience, from bean quality and brewing recipes to service style and space at every store.",
     "about.vision.title": "Vision",
     "about.vision.body":
       "To become a beloved coffee chain through consistent quality and friendly style.",
@@ -218,7 +218,7 @@ const translations = {
     "about.values.body": "Honesty, care, and continuous improvement.",
     "about.space.title": "Space and service style",
     "about.space.body":
-      "ABC Coffee favors warm tones, wood textures, and soft lighting. The menu is designed for both dine-in and takeaway.",
+      "Yummy Coffee favors warm tones, wood textures, and soft lighting. The menu is designed for both dine-in and takeaway.",
     "about.space.item1": "Signature Roast",
     "about.space.item1desc": "Medium roast with cacao and nutty notes.",
     "about.space.item2": "Seasonal Menu",
@@ -231,16 +231,16 @@ const translations = {
     "about.journey.pill": "Growth journey",
     "about.journey.title": "From the first cafe to the ABC chain",
     "about.journey.body":
-      "Inspired by Vietnamese coffee, ABC Coffee launched in 2019 to share traditional flavors. With 24+ stores, we proudly build a growing coffee-loving community and continue preserving Vietnamese coffee heritage.",
+      "Inspired by Vietnamese coffee, Yummy Coffee launched in 2019 to share traditional flavors. With 24+ stores, we proudly build a growing coffee-loving community and continue preserving Vietnamese coffee heritage.",
     "about.journey.item1": "2019: Opened the first cafe",
     "about.journey.item2": "2021: 8 stores in Ho Chi Minh City",
     "about.journey.item3": "2023: 24 stores nationwide",
     "about.journey.item4": "2024: Launched packaged products",
-    "gallery.title": "ABC Coffee - Gallery",
+    "gallery.title": "Yummy Coffee - Gallery",
     "gallery.pill": "Photo & video gallery",
     "gallery.hero.title": "Cafe spaces and everyday moments.",
     "gallery.hero.body":
-      "Discover the warm concept, check-in corners, and brewing standards of ABC Coffee.",
+      "Discover the warm concept, check-in corners, and brewing standards of Yummy Coffee.",
     "gallery.collection.title": "Photo collection",
     "gallery.collection.body":
       "From freshly roasted beans to carefully designed spaces.",
@@ -259,9 +259,9 @@ const translations = {
     "gallery.video.pill": "Intro video",
     "gallery.video.title": "Roasting and brewing journey",
     "gallery.video.body":
-      "Watch how we select beans and brew each cup of ABC Coffee.",
-    "contact.title": "ABC Coffee - Contact",
-    "contact.pill": "Contact ABC Coffee",
+      "Watch how we select beans and brew each cup of Yummy Coffee.",
+    "contact.title": "Yummy Coffee - Contact",
+    "contact.pill": "Contact Yummy Coffee",
     "contact.hero.title":
       "Reach out for product details and collaboration opportunities.",
     "contact.hero.body": "Send your info, we will reply within 24 hours.",
@@ -279,8 +279,8 @@ const translations = {
     "contact.form.message": "Describe your request or questions",
     "contact.form.submit": "Submit",
     "contact.map.pill": "Location map",
-    "contact.map.title": "Visit ABC Coffee in HCMC",
-    "contact.map.body": "Come by and enjoy the ABC Coffee flavors.",
+    "contact.map.title": "Visit Yummy Coffee in HCMC",
+    "contact.map.body": "Come by and enjoy the Yummy Coffee flavors.",
     "contact.footer.tagline":
       "Coffee brand founded by me, spreading Vietnamese flavors.",
   },
