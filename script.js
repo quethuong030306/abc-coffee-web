@@ -71,7 +71,7 @@ const translations = {
     "about.title": "Yummy Coffee - Giới Thiệu",
     "about.pill": "Về thương hiệu",
     "about.hero.title":
-      "Thương hiệu cà phê ABC với trải nghiệm khách hàng làm trung tâm.",
+      "Thương hiệu cà phê Yummy với trải nghiệm khách hàng làm trung tâm.",
     "about.hero.body":
       "Yummy Coffee được xây dựng để mang đến trải nghiệm cà phê đồng nhất, từ chất lượng hạt rang, công thức pha chế đến phong cách phục vụ và không gian tại mỗi cửa hàng.",
     "about.vision.title": "Tầm nhìn",
@@ -169,7 +169,7 @@ const translations = {
     "index.menu.title": "Featured menu",
     "index.menu.lead": "Signature drinks balanced in flavor and emotion.",
     "index.menu.badge": "Top picks this month",
-    "index.menu.item1": "ABC Milk Coffee",
+    "index.menu.item1": "Yummy Milk Coffee",
     "index.menu.item1desc": "Medium roast with a chocolate finish.",
     "index.menu.item2": "Orange Cold Brew",
     "index.menu.item2desc": "Fresh citrus notes, easy to drink.",
@@ -178,7 +178,7 @@ const translations = {
     "index.menu.item4": "Salted Coffee",
     "index.menu.item4desc": "Light, creamy, balanced sweet-salty finish.",
     "index.story.pill": "Brand story",
-    "index.story.title": "From coffee passion to the ABC chain",
+    "index.story.title": "From coffee passion to the Yummy chain",
     "index.story.body":
       "Yummy Coffee started as a small cafe with a dream of delivering authentic Vietnamese coffee. I select the beans, build recipes, and refine every detail for a consistent experience.",
     "index.story.cta": "Learn more",
@@ -229,7 +229,7 @@ const translations = {
     "about.quality.item3": "Clean ingredients with clear origins.",
     "about.quality.item4": "Daily customer feedback tracking.",
     "about.journey.pill": "Growth journey",
-    "about.journey.title": "From the first cafe to the ABC chain",
+    "about.journey.title": "From the first cafe to the Yummy chain",
     "about.journey.body":
       "Inspired by Vietnamese coffee, Yummy Coffee launched in 2019 to share traditional flavors. With 24+ stores, we proudly build a growing coffee-loving community and continue preserving Vietnamese coffee heritage.",
     "about.journey.item1": "2019: Opened the first cafe",
