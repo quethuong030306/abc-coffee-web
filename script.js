@@ -33,7 +33,7 @@ const translations = {
     "index.menu.lead":
       "Tuyển chọn đồ uống signature, cân bằng hương vị và cảm xúc.",
     "index.menu.badge": "Bán chạy trong tháng",
-    "index.menu.item1": "Cà phê sữa ABC",
+    "index.menu.item1": "Cà phê sữa",
     "index.menu.item1desc": "Hạt rang vừa, hậu vị chocolate.",
     "index.menu.item2": "Cold Brew Cam",
     "index.menu.item2desc": "Vị cam tươi, mát lạnh dễ uống.",
@@ -42,7 +42,7 @@ const translations = {
     "index.menu.item4": "Cà phê muối",
     "index.menu.item4desc": "Béo nhẹ, hậu vị mặn ngọt cân bằng.",
     "index.story.pill": "Câu chuyện thương hiệu",
-    "index.story.title": "Từ đam mê cà phê đến chuỗi cửa hàng ABC",
+    "index.story.title": "Từ đam mê cà phê đến chuỗi cửa hàng Yummy Coffee",
     "index.story.body":
       "Yummy Coffee bắt đầu từ một quán nhỏ với mong muốn mang đến ly cà phê chuẩn vị Việt. Tôi trực tiếp lựa chọn hạt, xây công thức và chăm chút từng chi tiết để tạo nên trải nghiệm đồng nhất.",
     "index.story.cta": "Tìm hiểu thêm",
@@ -95,7 +95,7 @@ const translations = {
     "about.quality.item3": "Nguyên liệu sạch, minh bạch nguồn gốc.",
     "about.quality.item4": "Phản hồi khách hàng được ghi nhận hằng ngày.",
     "about.journey.pill": "Hành trình phát triển",
-    "about.journey.title": "Từ cửa hàng đầu tiên đến chuỗi ABC",
+    "about.journey.title": "Từ cửa hàng đầu tiên đến chuỗi cửa hàng Yummy Coffee",
     "about.journey.body":
       "Khởi nguồn từ cảm hứng cà phê Việt, Yummy Coffee ra mắt năm 2019 với sứ mệnh lan tỏa hương vị cà phê truyền thống. Với hơn 24+ cửa hàng, thương hiệu tự hào xây dựng cộng đồng yêu cà phê lớn mạnh và tiếp tục gìn giữ tinh hoa cà phê Việt.",
     "about.journey.item1": "2019: Mở quán đầu tiên",
@@ -126,7 +126,7 @@ const translations = {
     "gallery.video.pill": "Video giới thiệu",
     "gallery.video.title": "Hành trình rang xay và pha chế",
     "gallery.video.body":
-      "Theo dõi video giới thiệu cách chúng tôi lựa chọn hạt và pha chế để tạo nên ly cà phê ABC.",
+      "Theo dõi video giới thiệu cách chúng tôi lựa chọn hạt và pha chế để tạo nên ly cà phê.",
     "contact.title": "Yummy Coffee - Liên Hệ",
     "contact.pill": "Liên hệ Yummy Coffee",
     "contact.hero.title": "Kết nối với tôi để nhận thông tin sản phẩm và hợp tác.",
@@ -146,7 +146,7 @@ const translations = {
     "contact.form.submit": "Gửi thông tin",
     "contact.map.pill": "Bản đồ khu vực",
     "contact.map.title": "Ghé thăm Yummy Coffee tại TP.HCM",
-    "contact.map.body": "Mời bạn ghé tham quan và thưởng hương vị cà phê ABC.",
+    "contact.map.body": "Mời bạn ghé tham quan và thưởng hương vị cà phê.",
     "contact.footer.tagline":
       "Thương hiệu cà phê do tôi sáng lập, lan tỏa hương vị Việt.",
   },
