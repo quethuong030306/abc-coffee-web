@@ -102,6 +102,12 @@ a {
   max-width: 520px;
 }
 
+.hero-cover .pill {
+  background: rgba(255, 255, 255, 0.18);
+  color: #fff;
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+
 .hero-panel {
   background: rgba(17, 15, 13, 0.75);
   border-radius: var(--radius-lg);
@@ -207,7 +213,7 @@ a {
   gap: 0.4rem;
   padding: 0.3rem 0.9rem;
   border-radius: 999px;
-  background: rgba(33, 64, 55, 0.12);
+  background: rgba(33, 64, 55, 0.2);
   color: var(--forest);
   font-weight: 600;
   font-size: 0.85rem;
